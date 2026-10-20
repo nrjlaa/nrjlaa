@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, saya Nur Najlaa 👋 
 
 ### 👩‍💻 Mengenai Saya
