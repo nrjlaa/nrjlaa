@@ -5,7 +5,6 @@
 - 🔭 Saya sedang mempelajari **Sains Data, Pangkalan Data (Database), dan Pembangunan Perisian**.
 - 🌱 Fokus semasa: Memantapkan asas **Git, GitHub, Python, dan SQL**.
 - 💡 Minat utama: *Data Wrangling*, *Data Pipelines*, dan *Big Analytics*.
-- 💬 Tanya saya mengenai: Projek kuliah dan perjalanan pembelajaran Data Engineering saya!
 - 📫 Hubungi saya: [najlaaroslan11@gmail.com](mailto:najlaaroslan11@gmail.com)
 
 ---
